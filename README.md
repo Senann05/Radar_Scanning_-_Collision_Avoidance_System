@@ -7,29 +7,12 @@ A compact embedded-systems prototype that combines an Arduino-driven ultrasonic 
 ## 📸 System Previews
 
 <details open>
-  <summary><b>🖥️ 1. SCADA Radar HMI (Click to expand)</b></summary>
+  <summary><b>🖥️ 1.📸 Video Presentation (Click to expand)</b></summary>
   <br>
-
-  * **Normal Scan (no obstacles):**
-    > _Add a screenshot here, e.g. `assets/normal.png`_
-
-  * **Warning Zone:**
-    > _Add a screenshot here, e.g. `assets/warning.png`_
-
-  * **Danger Alarm:**
-    > _Add a screenshot here, e.g. `assets/danger.png`_
+    >(https://www.youtube.com/watch?v=MySDCmcM7DE)
 
 </details>
 
-<details>
-  <summary><b>⚙️ 2. Hardware Prototype (Click to expand)</b></summary>
-  <br>
-
-  > _Add a photo of the Arduino + servo + HC-SR04 rig here, e.g. `assets/hardware.jpeg`_
-
-</details>
-
-> Replace the placeholders above with real screenshots or a short screen-recording once you've captured them.
 
 ---
 
